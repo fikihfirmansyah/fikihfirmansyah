@@ -2,25 +2,12 @@
 
 Sorry, our team uses bitbucket more often, but you can see my coding activity below. thank you.
 
-![Fikih Firmansyah's WakaTime Coding Stats](https://wakatime.com/share/@misterabdul/77ddcfed-94ab-44a9-9d1f-f84c10123ebe.svg)
-
-![Fikih Firmansyah's WakaTime Programming Language Stats](https://wakatime.com/share/@5346ecae-279b-4a47-aa65-5ae244c88994/ab319bde-5466-4416-9800-106e624329ef.svg)
 <h1 align="center">Hi 👋, I'm Fikih</h1>
-<h3 align="center">A passionate backend developer from Medan, Indonesia</h3>
+<h3 align="center">from Medan, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fikihfirmansyah&label=Profile%20views&color=0e75b6&style=flat" alt="fikihfirmansyah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fikihfirmansyah" alt="fikihfirmansyah" /></a> </p>
-
-- 🔭 I’m currently working on [(ERP)Enterprise Resource Planning](https://xtend.my.id)
-
-- 🌱 I’m currently learning **Laravel, GCP, Multimicroservices**
-
-- 👯 I’m looking to collaborate on [Agatha Projects](https://agatha.web.id)
-
-- 👨‍💻 All of my projects are available at [https://github.com/fikihfirmansyah](https://github.com/fikihfirmansyah)
-
-- 💬 Ask me about **Zend, PHP, Backend**
 
 - 📫 How to reach me **fikihfirmansyah43@gmail.com**
 
