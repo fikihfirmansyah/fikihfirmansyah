@@ -10,6 +10,6 @@
 
 Sorry, our team uses bitbucket more often, but you can see my coding activity below. thank you.
 
-<figure><embed src="https://wakatime.com/share/@5346ecae-279b-4a47-aa65-5ae244c88994/26e2b695-c2ad-4d9d-9497-c16a4d4dc911.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@5346ecae-279b-4a47-aa65-5ae244c88994/bcfef077-1824-4084-870d-8b1d14e612b0.svg"></embed></figure>
+![Fikih WakaTime Programming Language Stats](https://wakatime.com/share/@5346ecae-279b-4a47-aa65-5ae244c88994/26e2b695-c2ad-4d9d-9497-c16a4d4dc911.svg)
 
+![Fikih WakaTime Coding Stats](https://wakatime.com/share/@5346ecae-279b-4a47-aa65-5ae244c88994/bcfef077-1824-4084-870d-8b1d14e612b0.svg)
