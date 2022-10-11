@@ -11,7 +11,6 @@
 Sorry, our team uses bitbucket more often, but you can see my coding activity below. thank you.
 <p align="left">
 <a href="https://github.com/fikihfirmansyah">
-  <img height="370em" src="https://wakatime.com/badge/bitbucket/xtendindo/tma-back-end.svg"/>
-  <img height="370em" src="https://wakatime.com/share/@5346ecae-279b-4a47-aa65-5ae244c88994/bcfef077-1824-4084-870d-8b1d14e612b0.svg"/>
+  <img height="200em" src="https://wakatime.com/share/@5346ecae-279b-4a47-aa65-5ae244c88994/ce1b6023-1322-47a8-8dda-ec1850dae678.svg"/>
 </a>
 </p>
