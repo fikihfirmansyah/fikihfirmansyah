@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fikih</h1>
 <h3 align="center">from Medan, Indonesia</h3>
 <p align="center">📫 Reach me at fikihfirmansyah43@gmail.com</p>
-<p align="center"><a href="https://www.linkedin.com/in/fikih-firmansyah/">
-  <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" | LinkedIn" width="21px"/> fikih-firmansyah</a>
-  </p>
-<p align="center"><a href="https://instagram.com/fikihfirmansyah43"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/> fikihfirmansyah43</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/fikih-firmansyah"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Fikih Firmansyah | LinkedIn" width="21px"/> fikih-firmansyah</a></p>
+<p align="center"><a href="https://instagram.com/fikihfirmansyah43"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Fikih Firmansyah | Instagram" width="21px"/> fikihfirmansyah43</a></p>
 <p align="center"> 💬 If you have any question/feedback, please do not hesitate to reach out to me!</p>
 
 <p align="left">
