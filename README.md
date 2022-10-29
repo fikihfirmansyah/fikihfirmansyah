@@ -30,7 +30,9 @@ Sorry, our team uses bitbucket more often, but you can see my coding activity be
 
 ## 💼 Technical Skills
 
-![Zend Framework](https://framework.zend.com/images/logos/ZendFramework-logo.png)
-![GCP](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/640px-Google_Cloud_logo.svg.png)
-![Docker](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ <p align="left">
+ <img height="30em" src="https://framework.zend.com/images/logos/ZendFramework-logo.png"/>
+ <img height="30em" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"/>
+ <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/640px-Google_Cloud_logo.svg.png"/>
+ <img height="30em" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png"/>
+</p>
