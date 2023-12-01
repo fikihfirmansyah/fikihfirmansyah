@@ -1,6 +1,6 @@
 Hello! 👋 I'm Fikih, an aspiring programmer. I'm currently passionate about creating innovative and user-friendly web applications.
 
-I'm constantly learning and exploring new technologies to enhance my skills and stay up-to-date with the latest trends in Android development. If you're interested in collaborating or have any exciting project ideas, feel free to reach out!
+I'm constantly learning and exploring new technologies to enhance my skills and stay up-to-date with the latest trends in Web development. If you're interested in collaborating or have any exciting project ideas, feel free to reach out!
 
 [![wakatime](https://wakatime.com/badge/user/5346ecae-279b-4a47-aa65-5ae244c88994.svg)](https://wakatime.com/@5346ecae-279b-4a47-aa65-5ae244c88994)
 
