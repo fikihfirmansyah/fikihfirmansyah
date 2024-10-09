@@ -1,15 +1,14 @@
-Hello! 👋 I'm Fikih.
+# Fikih Firmansyah
 
+👋 Hi There, I'm Fikih from Indonesia.
+- 🚢 Google Developer Groups Medan Leads since 2022 at [GDG Medan](https://gdgmedan.com/).
+- 🧭 I’m currently working on Backend with [Java](https://dev.java/), [PHP](https://www.php.net/), and [Go Lang](https://go.dev/).
+- 💾 Writing Front-End stuff with [React in Inertia](https://inertiajs.com/) and [Laravel](https://laravel.com/).
+- 👀 Interested and want to know more about [DevOps](https://devops.com/) and [Microservices](https://microservices.io/).
+- ☁️ Live in the cloud with [Google Cloud Platform](https://cloud.google.com/).
+- 📚 In my spare time, I sometimes write articles that can be [read here](https://fikihfirmansyah.medium.com/) (_related to software engineering stuff_).
 
-[![wakatime](https://wakatime.com/badge/user/5346ecae-279b-4a47-aa65-5ae244c88994.svg)](https://wakatime.com/@5346ecae-279b-4a47-aa65-5ae244c88994)
-<p align="left">
-<img src="https://wakatime.com/share/@fikihfirmansyah/1fa8866c-446a-4cce-8330-0e1437f4b174.svg" width="500px"/>
-<p align="left">
-<a href="https://github.com/fikihfirmansyah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fikihfirmansyah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
-<p align="left">
-  <img src="https://wakatime.com/share/@fikihfirmansyah/e16b8e35-e17c-48f4-bb19-813201a04073.svg"/>
-</p>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fikihfirmansyah.fikihfirmansyah)
+![Total time coded since Feb 11 2020](https://wakatime.com/badge/user/5346ecae-279b-4a47-aa65-5ae244c88994.svg)
+[![Linkedin Fikih Firmansyah](https://img.shields.io/badge/Linkedin-Fikih%20Firmansyah-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fikih-firmansyah/)
+[![Medium fikihfirmansyah](https://img.shields.io/badge/Medium-fikihfirmansyah-blue?logo=Medium&logoColor=white)](https://fikihfirmansyah.medium.com/)
