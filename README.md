@@ -1,8 +1,8 @@
 # Fikih Firmansyah
 
 👋 Hi There, I'm Fikih from Indonesia.
-- 🚢 Google Developer Groups Medan Leads since 2022 at [GDG Medan](https://gdgmedan.com/).
-- 🧭 I’m currently working on Backend with [Java](https://dev.java/), [PHP](https://www.php.net/), and [Go Lang](https://go.dev/).
+- 🚢 Google Developer Groups Medan Organizer since 2022 at [GDG Medan](https://gdgmedan.com/).
+- 🧭 I’m currently working on Backend with [Java](https://dev.java/), [Go Lang](https://go.dev/) and [PHP](https://www.php.net/).
 - 💾 Writing Front-End stuff with [React in Inertia](https://inertiajs.com/) and [Laravel](https://laravel.com/).
 - 👀 Interested and want to know more about [DevOps](https://devops.com/) and [Microservices](https://microservices.io/).
 - ☁️ Live in the cloud with [Google Cloud Platform](https://cloud.google.com/).
